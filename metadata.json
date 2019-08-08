@@ -1,14 +1,13 @@
 {
   "name": "eupathdb-apache_ext",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": "eupathdb",
   "summary": "extensions to the Puppetlabs apache module",
   "license": "Apache-2.0",
-  "source": "",
-  "project_page": null,
-  "issues_url": null,
+  "source": "https://github.com/EuPathDB/puppet-apache_ext",
+  "project_page": "https://github.com/EuPathDB/puppet-apache_ext",
+  "issues_url": "https://github.com/EuPathDB/puppet-apache_ext/issues",
   "dependencies": [
     {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
   ]
 }
-

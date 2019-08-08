@@ -1,0 +1,17 @@
+{
+  "Gemfile": "6a08ec57f18e97c4ead40a6529d05aa8",
+  "README.md": "5df825bb84428fba6fa0bab2751ebcf8",
+  "Rakefile": "3044cde52b8cd8508c8400076a66ef11",
+  "manifests/init.pp": "39304c813b0d70547b1f5c177d484e3d",
+  "manifests/mod/auth_tkt.pp": "5c590fa53a0b385c96e411de0c0fc03f",
+  "manifests/mod/jk.pp": "7f32c8a4f8ddb36fca5e264e956bbdb8",
+  "manifests/mod/line_edit.pp": "967e3f368886ce4ebc4541ec940d5fc1",
+  "manifests/php/ext.pp": "9bf995d769c51111e0fe233aba2259f1",
+  "manifests/php/ldap.pp": "1d2c8d31a9e67035d282783b6ca469f9",
+  "metadata.json": "4a6bff21edf0fa6f90f1eeece2dfb238",
+  "spec/classes/init_spec.rb": "4c4f1b0345847194232282abb4e1f9da",
+  "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc",
+  "templates/mod/auth_tkt.conf.erb": "f793fe5a554fcfeaae6413eac057a6fe",
+  "templates/mod/jk.conf.erb": "26427cae5cf5ad2133f1fd23cdc1ee93",
+  "tests/init.pp": "d1e60a3218528052cae7735ea6dcd031"
+}

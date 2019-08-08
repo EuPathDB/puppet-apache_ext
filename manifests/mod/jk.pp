@@ -1,4 +1,5 @@
-# manage mod_jk
+# manage mod_jk for puppetlabs-apache 1.x
+# This will be managed by puppetlabs-apache 2.x                             
 class apache_ext::mod::jk (
   $jkworkersfile = '/etc/httpd/conf/workers.properties',
   $jklogfile     = '/var/log/httpd/mod_jk.log',
